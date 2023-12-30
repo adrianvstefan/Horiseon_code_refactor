@@ -13,10 +13,14 @@ The challange is to add more accessibility to the Horiseon website and make it m
 
 ## Usage 
 For more accessibility to the website to ensure everyone can access and use the online content.
+Link : https://adrianvstefan.github.io/Horiseon_code_refactor/
+
+![Alt text](/assets/images/image.png)
+![Alt text](/assets/images/image-1.png)
 
 ## Credits
-Website build by eDX Bootcamp
-Code refactore - Adrian Stefan
+Website build by edX Bootcamp
+Code refactored by Adrian Stefan
 
 ## License
 MIT License
